@@ -1,6 +1,6 @@
 # GreyHoundDogRace 
-Just an starting point for a later bets system implementation, that's we call "a reason for..."
- *IN PROGRESS...(sincerely, it's taking me quite more than i'd expected)* 
+Just an starting point for a later bets system implementation, that's we call "a reason for..."   
+*IN PROGRESS...(sincerely, it's taking me quite more than i'd expected)* 
 
 ## Game Description
 There are seven grey hounds on a 2 lap race. Takes in account points and the general winner. Originally started (endings of 2021) as a mean to produce data to work with bets and statistics.
