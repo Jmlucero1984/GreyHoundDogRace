@@ -11,5 +11,7 @@ Blender modeled dog prototipes, free to change their skins and some skeleton met
 Step trails are simulated with a pool of decals
 I took advantage of the Unity's pathfinder algorithm, even though some key events must be fixed by scripting, like finish line triggering (no box collision o whatever, even dynamically...)
 To populate the steps of the building i had been using animated billboards, but it requires more detailed work.  
+
+
 https://github.com/Jmlucero1984/GreyHoundDogRace/assets/91501518/59604ab9-8b8c-4f48-bbd6-0de06de45e89
 
