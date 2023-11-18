@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 42d13bdceed5ceb47931423b79dcbdeb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - banderin: {fileID: 7264967553515497742, guid: 348a89308fd16bd4cbfe9fc8bd7293e8, type: 3}
+  - banderin2: {fileID: 7264967553515497742, guid: 2760449e4da83b2419ceb9c0e82062d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
